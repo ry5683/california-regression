@@ -13,6 +13,11 @@ This project builds and compares three regression models — Linear Regression, 
 - 📈 Visualize actual vs predicted prices
 - 🧱 Modular project structure (production-ready layout)
 
+## 🔄 Updates
+
+- Added StandardScaler to normalize features for better performance on linear models.
+- Now prints both RMSE and R² score for Linear and Tree models.
+
 ---
 
 ## 📉 Evaluation Metrics
