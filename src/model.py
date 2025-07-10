@@ -1,8 +1,5 @@
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
-from src.preprocessing import StandardScaler
-
-
 
 def train_linear(X_train, y_train):
     model = LinearRegression()
